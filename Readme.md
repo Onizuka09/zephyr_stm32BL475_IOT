@@ -1,7 +1,5 @@
 # STM32B-L475 IOT01A project 
 
-test
-
 - init project 
 ```bash 
 west init
